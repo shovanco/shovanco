@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+Thanks for checking out my Profile. I am Shovan, Director at SCube.co. 
+
+We build website and always looking for developers on fulltime and freelance capacity. 
+
+If you are intrested drop me your resume to shovan [at] scube.co
+
 <!--
 **shovanco/shovanco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
